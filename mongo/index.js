@@ -2,7 +2,7 @@ var mongoose = require('mongoose');
 
 mongoose.Promise = global.Promise;
 
-MONGODB_URI='mongodb://shimhg02:adad123@ds133557.mlab.com:33557/heroku_wh8bw68p'
+MONGODB_URI='mongo://localhost:krw'
 mongoose.connect(MONGODB_URI);
 
 var db = mongoose.connection;
