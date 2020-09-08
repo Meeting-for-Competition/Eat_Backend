@@ -1,6 +1,6 @@
-## EAT
+## EAT 
 
-#Restful Api
+#Restful Api.. 잠들어 버린 심효근...
 
 * POST /signup ( 유저 회원가입 )
 
